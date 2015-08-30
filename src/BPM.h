@@ -1,4 +1,4 @@
-/*
+/** \brief
  * BPM.h
  *
  *  Created on: Aug 26, 2015
